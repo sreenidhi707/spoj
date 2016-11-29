@@ -56,5 +56,8 @@
     <ClCompile Include="..\Utilities\utilities.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="4_ONP_transform_the_expression.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
