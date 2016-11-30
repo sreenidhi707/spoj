@@ -59,5 +59,8 @@
     <ClCompile Include="4_ONP_transform_the_expression.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3410_feynman.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
