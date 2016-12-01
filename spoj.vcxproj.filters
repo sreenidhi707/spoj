@@ -65,5 +65,8 @@
     <ClCompile Include="7974_ACPC10A_whats_next.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="400_TOANDFRO_to_and_fro.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
