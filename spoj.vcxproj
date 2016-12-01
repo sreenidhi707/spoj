@@ -161,6 +161,7 @@
     <ClCompile Include="3410_feynman.cpp" />
     <ClCompile Include="42_adding_reversed_numbers.cpp" />
     <ClCompile Include="4_ONP_transform_the_expression.cpp" />
+    <ClCompile Include="7974_ACPC10A_whats_next.cpp" />
     <ClCompile Include="driver.cpp" />
     <ClCompile Include="paradox.cpp" />
     <ClCompile Include="spoj.cpp" />

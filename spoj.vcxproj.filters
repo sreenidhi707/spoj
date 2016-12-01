@@ -62,5 +62,8 @@
     <ClCompile Include="3410_feynman.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="7974_ACPC10A_whats_next.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
