@@ -8,6 +8,7 @@
 #include <vector>
 #include <sstream>
 #include <cassert>
+#include <algorithm>
 
 #include "driver.h"
 #include "utilities.h"

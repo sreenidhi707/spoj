@@ -68,5 +68,8 @@
     <ClCompile Include="400_TOANDFRO_to_and_fro.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3923_BYTESM2_philosophers_stone.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
